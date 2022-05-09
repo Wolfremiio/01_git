@@ -1,0 +1,17 @@
+{
+  "name": "01-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
